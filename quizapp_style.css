@@ -1,0 +1,35 @@
+body {
+    margin: 10rem;
+    padding: 10px;
+    background-color: rgb(154, 144, 144);
+}
+
+h1 {
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.container {
+    background-color: white;
+    border: 2px solid white; 
+    border-radius: 1rem;
+    padding: 10px;
+    width: 50rem;
+    height: 25rem;
+}
+.bo1 {
+    background-color: rgb(78, 78, 215);
+    color: white;
+    border: 20px solid rgb(78, 78, 215);
+    border-radius: 3px;
+    height: 3rem;
+    width: 6rem;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: ;
+}
