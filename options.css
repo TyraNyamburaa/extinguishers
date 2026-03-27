@@ -1,0 +1,71 @@
+
+            .header{
+                text-align: center;
+                background-color: bisque;
+                color: black;
+                padding: 30px;
+            }
+            *{
+                box-sizing:border-box;
+            }
+            body{
+                background-color: bisque;
+
+            }
+            .navbar{
+                background-color: black;
+                overflow: hidden;
+            }
+            .navbar a{
+                float: left;
+                display: block;
+                text-align: center;
+                padding: 12px 18px;
+                color: aqua;
+                text-decoration: none;
+            }
+            .navbar a.right{
+                float: right;
+            }
+            .navbar a:hover {
+                background-color: maroon;
+                color: black;
+            }
+           
+            .column{
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .side{
+                flex:20%;
+                background-color: bisque;
+                padding: 20cm;
+            }
+            .main{
+                flex: 80%;
+                background-color: bisque;
+                padding: 20px;
+            }
+            .Icons-bar{
+                background-color: gray;
+                padding: 10px 10px;
+                overflow: auto;
+            }
+            .Icons-bar i{
+                float: left;
+                text-align: center;
+                padding: 15px;
+                color: black;
+
+            }
+            .Icons-bar i:hover{
+                background-color: aqua;
+            }
+            .active{
+                background-color: brown;
+            }
+            .fas {
+                font-weight: 900 !important;
+            }
+
+
