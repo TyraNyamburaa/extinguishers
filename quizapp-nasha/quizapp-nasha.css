@@ -20,7 +20,7 @@
         }
         .quiz-container {
             background-color: white;
-            border-radius: 40px;
+            border-radius: 30px;
             padding: 10px;
             display: flex;
             flex-direction:column;
